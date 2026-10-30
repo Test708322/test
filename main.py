@@ -2,6 +2,8 @@ import sqlite3
 import tkinter as tk
 from tkinter import ttk, messagebox
 
+# v1 -> v2
+
 DB = "library.db"
 
 def init_db():
